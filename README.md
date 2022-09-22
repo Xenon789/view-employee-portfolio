@@ -47,7 +47,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
+<<<<<<< HEAD
 ![portfolio demo](./acceptance criteria/02-advanced-css-homework-demo.gif)
+=======
+![portfolio demo](./final/02-advanced-css-homework-demo.gif)
+>>>>>>> 85bebe2 (minor fixes)
 
 
 ## Grading Requirements
